@@ -18,7 +18,6 @@ index_image.find(function(errA, recordsA){
    });
 });
 	      
-});
 
 ```
 
